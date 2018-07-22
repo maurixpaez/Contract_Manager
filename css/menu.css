@@ -1,0 +1,69 @@
+/* ============== MENU EXPANDIDO ================== */
+.menu_box
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu_box a
+	{
+		display:block;
+		text-decoration:none;
+		font-weight:lighter;
+		height: 45px;
+		min-width: 155px;
+		color:#585858;
+		padding: 13px 0px 15px 11px;
+		border-bottom:1px solid #dfdfdf;
+		font-size: 14px;
+		background-color: #f7f7f7;
+	}
+
+.menu_box a:hover
+	{
+		background-color:#1ab394;
+		color: #ffffff;
+	}
+
+.menu_box i
+	{
+		padding-right: 6px;
+	}
+
+
+
+
+/* CONTENIDO DESPLEGABLE =================================================================================== */
+
+.menu_cont
+{
+	display:block;
+	margin: 0px;
+	padding: 0px;
+	color: #686868;
+}
+
+.menu_cont ul
+{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.menu_cont li a
+{
+	background-color: #ffffff;
+	display:block;
+	text-decoration:none;
+	font-weight:lighter;
+	height: 35px;
+	min-width: 155px;
+	padding: 9px 0px 9px 20px;
+	font-size: 12px;
+}
+
+.menu_cont li a:hover
+{
+	background-color:#1ab394;
+	color:#ffffff;
+}

@@ -1,0 +1,44 @@
+#wrapper_login
+{
+	position: fixed;
+	width: 100%;
+	min-width: 850px;
+	height: 100%;
+	overflow:hidden;
+	left:0px;
+	right:0px;
+	bottom:0px;
+}
+
+#titulo-login-wrapper
+{
+	width: 100%;
+	min-width: 210px;
+	padding: 10px 15px;
+	height: 45px;
+	text-align: left;
+	font-size: 16px;
+	color: #676a6c;
+}
+
+.logo-name {
+    color: #e6e6e6;
+    font-size: 150px;
+    font-weight: 800;
+    letter-spacing: -10px;
+    margin-bottom: 0px;
+}
+
+.login_box {
+  width: 600px;
+  margin: 0px auto;
+  text-align: center;
+  color: #676a6c;
+  font-size: 14px;
+}
+
+.login_form {
+  width: 300px;
+  margin: 0px auto;
+  padding-top: 25px;
+}
